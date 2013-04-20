@@ -1,2 +1,0 @@
-SHA1 (OSM Server v0.1.ovf)= 956e7328e1e01cfdbe9a22dd09139d6f6f43b260
-SHA1 (OSM Server.vmdk)= 3193b8519ca3edba813775adb0b2514f536c6020
