@@ -1,0 +1,6 @@
+[submodule "geoserver"]
+	path = geoserver
+	url = git://github.com/tommyettinger/geoserver.git
+[submodule "cassandra"]
+	path = cassandra
+	url = git://github.com/tommyettinger/cassandra.git
